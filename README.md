@@ -8,6 +8,27 @@
 
 필요 환경: Python 3.12 이상, Node.js 22.12 이상. 설치 단계는 인터넷 연결이 필요합니다.
 
+### 팀원이 가져오기
+
+공개 저장소: [hamsikKKKKK/careertrace-ai](https://github.com/hamsikKKKKK/careertrace-ai)
+
+GitHub에서 `hamsikKKKKK` 계정의 `careertrace-ai` 저장소를 찾거나 다음 명령을 실행하세요.
+
+```powershell
+git clone https://github.com/hamsikKKKKK/careertrace-ai.git
+cd careertrace-ai
+./setup.ps1
+./run.ps1
+```
+
+GitHub Desktop에서는 `File → Clone repository → URL`에 위 저장소 주소를 붙여 넣어도 됩니다. 단순 내려받기는 저장소의 `Code → Download ZIP`을 사용하세요.
+
+소스만 공유됩니다. API 키, 개인 경험·초안 DB, 설치된 라이브러리, 브라우저 시연용 샘플 DB는 업로드하지 않았습니다. 각 팀원의 컴퓨터에서 처음 실행하면 빈 아카이브로 시작하며, **GitHub 경험 발견 → 가상 샘플로 체험**으로 시연할 수 있습니다.
+
+변경 내용을 받아오려면 로컬 수정 사항을 커밋한 뒤 `git pull --ff-only`를 실행하세요. 직접 푸시하려는 팀원은 저장소 협업자 권한이 필요하며, 읽기·복제에는 권한이 필요하지 않습니다.
+
+### 로컬 실행
+
 PowerShell에서 이 폴더로 이동한 뒤:
 
 ```powershell
